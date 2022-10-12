@@ -8,4 +8,4 @@ Pour les questions de pratique dans le module 5 (logiciel)
     * peut aider l'enseignant à voir si vous avez des difficultés
     * vous prépare pour les quiz et les projets de programmation
 
->Je veux voir les fichiers .class aussi, alors n'oubliez pas de compiler vos programmes avec javac avant de les lancer
+>Je veux voir les fichiers .class aussi, alors n'oubliez pas de compiler vos programmes avec `javac` avant de les lancer

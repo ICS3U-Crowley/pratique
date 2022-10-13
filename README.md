@@ -9,3 +9,9 @@ Pour les questions de pratique dans le module 5 (logiciel)
     * vous prépare pour les quiz et les projets de programmation
 
 >Je veux voir les fichiers .class aussi, alors n'oubliez pas de compiler vos programmes avec `javac` avant de les lancer
+
+## Le dossier .devcontainer
+
+**NE TOUCHER PAS À CE DOSSIER**
+
+Il contient la configuration qui vous permet de travailler en ligne directement à partir de GitHub via un CodeSpace, ce qui est pratique si vous voulez travailler à la maison.
